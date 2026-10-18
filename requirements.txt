@@ -1,0 +1,11 @@
+# requirements.txt
+# -----------------
+# All Python dependencies for the Music Genre Classification project.
+# Install with: pip install -r requirements.txt
+
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+librosa>=0.10.0
+streamlit>=1.28.0
+soundfile>=0.12.1
